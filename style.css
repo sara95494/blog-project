@@ -1,0 +1,45 @@
+ 
+ 
+ 
+ body{
+    background-image: url(photospace.jpeg);
+    background-repeat: no-repeat, repeat;
+    background-size:     cover;                      /* <------ */
+    background-repeat:   no-repeat;
+    background-position: center center;
+
+    
+color:rgb(208, 220, 241);
+align-content: center;
+
+
+
+  
+    }
+    tbody{
+        color: lightblue;
+        
+    }
+    thead{
+        color: lightblue;
+    }
+
+img{
+    width:380px ;
+    height:350px ;
+    display: flex;
+    align-items: right;
+}
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: cursive;
+    color :rgb(14, 92, 226);
+}
+h2{
+    color: lavenderblush;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: cursive;
+}
+
+
+
